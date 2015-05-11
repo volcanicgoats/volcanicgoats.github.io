@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://volcanicgoats.github.io
+title: Volcanic Goats
+tagline: Entertainment. News. Stories. Beyond.
+description: My awesome new site
+paginate: 5
